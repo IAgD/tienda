@@ -11,7 +11,7 @@ e importado con la interfaz phpmyadmin en un entorno windows</p>
 <ol>
   <li>Editor de textos | Sublime-text-2</li>
   <li>Apache 2 | windows</li>
-  <li>WebBrowser | Chrome whit liveReload</li>
+  <li>WebBrowser | Chrome  with liveReload</li>
 </ol>
 
 <h5>Israel Aguirre | neo280@live.com.mx | (c)2015</h5>
